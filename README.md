@@ -1,24 +1,134 @@
-<h1 align="center">Hi 👋, I'm Hasnat Shahriyar</h1>
-<h3 align="center">A programmer and a developer from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm Hasnat</h1>
+<h3 align="center">A passionate web developer from Bangladesh</h3>
 
+<p align="left"><a href="https://twitter.com/tanvironair" target="blank"><img
+        alt="tanvironair" src="https://img.shields.io/twitter/follow/tanvironair?logo=twitter&style=for-the-badge"/></a>
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hs.nahin430) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hs-nahin) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hs_nahin) 
+- 🔭 Currently <b>working on Sustainable development projects</b>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hasnat-shahriyar&theme=buefy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hasnat-shahriyar&theme=buefy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnat-shahriyar&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🌱 Currently learning ***C Programming***
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+- 👯 I’m looking to collaborate on **Open-source React.js projects**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hasnat-shahriyar&limit=5&theme=radical&combine_all_yearly_contributions=true)
+- 💬 Ask me about **React.js, JavaScript**
 
----
-[![](https://visitcount.itsvg.in/api?id=hasnat-shahriyar&icon=2&color=1)](https://visitcount.itsvg.in)
+- 📫 How to reach me [@hs.nahin](https://www.facebook.com/hs.nahin430/)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://twitter.com/hs_nahin" target="blank"><img align="center"
+                                                                  alt="hs_nahin"
+                                                                  height="30"
+                                                                  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"
+                                                                  width="40"/></a>
+    <a href="https://www.linkedin.com/in/hs-nahin/" target="blank"><img align="center"
+                                                                      alt="hs-nahin"
+                                                                      height="30"
+                                                                      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
+                                                                      width="40"/></a>
+    <a href="https://www.facebook.com/hs.nahin430/" target="blank"><img align="center"
+                                                             alt="hs.nahin"
+                                                             height="30"
+                                                             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg"
+                                                             width="40"/></a>
+    <a href="https://www.instagram.com/hs_nahin" target="blank"><img align="center"
+                                                                    alt="hs_nahin"
+                                                                    height="30"
+                                                                    src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"
+                                                                    width="40"/></a>
+</p>
+
+<table>
+    <tbody>
+    <tr>
+        <td>
+            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
+                    alt="javascript"
+                    height="40"
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+                    width="40"/> </a>
+        </td>
+        <td>
+            <a href="https://react.dev/" target="_blank"> <img
+                    alt="reactjs"
+                    height="40"
+                    src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg"
+                    width="40"/> </a>
+        </td>
+        <td>
+            <a href="https://reactrouter.com/en/main" target="_blank"> <img
+                    alt="react-router"
+                    title="react-router"
+                    height="40"
+                    src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/reactrouter/reactrouter-original-wordmark.svg"
+                    width="40"/> </a>
+        </td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://git-scm.com/" target="_blank"> <img
+                    alt="git" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://www.github.com" target="_blank">
+                <img alt="GitHub" height="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original.svg" width="40"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://sass-lang.com/" target="_blank">
+                <img alt="Sass" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" title="Sass"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://tailwindcss.com/" target="_blank">
+                <img alt="TailwindCSS" height="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://getbootstrap.com/" target="_blank">
+                <img alt="Bootstrap" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://www.w3schools.com/css/" target="_blank">
+                <img alt="CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://html.spec.whatwg.org/" target="_blank">
+                <img alt="HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5"/>
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.learn-c.org/" target="_blank"> <img
+                    alt="c" height="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/c/c-line.svg" width="40"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://isocpp.org/" target="_blank"> <img
+                    alt="C++"
+                    title="C++"
+                    height="40"
+                    src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-plain.svg"
+                    width="40"/>
+            </a>
+        </td>
+    </tr>
+    </tbody>
+</table>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+
+</p>
+
+![hasnat-shahriyar's Stats](https://github-readme-stats.vercel.app/api?username=hasnat-shahriyar&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![hasnat-shahriyar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasnat-shahriyar&theme=tokyonight&hide_border=true)
+
+[![Langguages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnat-shahriyar&hide=stylus,java&langs_count=10&theme=nightowl)]()
