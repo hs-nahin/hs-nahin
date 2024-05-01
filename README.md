@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hasnat</h1>
+<h1 align="center">Hi 👋, I'm Hasnat Shahriyar</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
 <p align="left"><a href="https://twitter.com/hs_nahin" target="blank"><img
