@@ -66,8 +66,6 @@
         </td>
     </tr>
     <tr>
-    </tr>
-    <tr>
         <td>
             <a href="https://git-scm.com/" target="_blank"> <img
                     alt="git" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
