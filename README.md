@@ -25,7 +25,7 @@
     <a href="https://www.linkedin.com/in/hs-nahin/" target="blank"><img align="center"
                                                                       alt="hs-nahin"
                                                                       height="30"
-                                                                      src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg"
+                                                                      src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linkedin/linkedin-original.svg"
                                                                       width="40"/></a>
     <a href="https://www.facebook.com/hs.nahin430/" target="blank"><img align="center"
                                                              alt="hs.nahin"
