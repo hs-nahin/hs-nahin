@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hasnat</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
-<p align="left"><a href="https://twitter.com/tanvironair" target="blank"><img
-        alt="tanvironair" src="https://img.shields.io/twitter/follow/tanvironair?logo=twitter&style=for-the-badge"/></a>
+<p align="left"><a href="https://twitter.com/hs_nahin" target="blank"><img
+        alt="hs_nahin" src="https://img.shields.io/twitter/follow/tanvironair?logo=twitter&style=for-the-badge"/></a>
 </p>
 
 - 🔭 Currently <b>working on Sustainable development projects</b>
