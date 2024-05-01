@@ -20,22 +20,22 @@
     <a href="https://twitter.com/hs_nahin" target="blank"><img align="center"
                                                                   alt="hs_nahin"
                                                                   height="30"
-                                                                  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"
+                                                                  src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/twitter/twitter-original.svg"
                                                                   width="40"/></a>
     <a href="https://www.linkedin.com/in/hs-nahin/" target="blank"><img align="center"
                                                                       alt="hs-nahin"
                                                                       height="30"
-                                                                      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
+                                                                      src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg"
                                                                       width="40"/></a>
     <a href="https://www.facebook.com/hs.nahin430/" target="blank"><img align="center"
                                                              alt="hs.nahin"
                                                              height="30"
-                                                             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg"
+                                                             src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/facebook/facebook-plain.svg"
                                                              width="40"/></a>
     <a href="https://www.instagram.com/hs_nahin" target="blank"><img align="center"
                                                                     alt="hs_nahin"
                                                                     height="30"
-                                                                    src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"
+                                                                    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg"
                                                                     width="40"/></a>
 </p>
 
