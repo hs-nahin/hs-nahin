@@ -5,7 +5,7 @@
         alt="hs_nahin" src="https://img.shields.io/twitter/follow/hs_nahin?logo=twitter&style=for-the-badge"/></a>
 </p>
 
-- 🔭 Currently working on<b> my personal portfolio project</b>
+- 🔭 Currently working on a<b> personal portfolio project</b>
 
 - 🌱 Currently learning ***C Programming***
 
