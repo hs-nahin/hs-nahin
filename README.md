@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hasnat Shahriyar</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
-<p align="left"><a href="https://twitter.com/hs_nahin" target="blank"><img
+<p align="left"><a href="https://twitter.com/hs_nahin" target="_blank"><img
         alt="hs_nahin" src="https://img.shields.io/twitter/follow/hs_nahin?logo=twitter&style=for-the-badge"/></a>
 </p>
 
