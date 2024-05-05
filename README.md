@@ -44,34 +44,34 @@
         <tr>
             <td>
                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-                    <img alt="javascript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+                    <img alt="javascript" title="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
                 </a>
             </td>
             <td>
                 <a href="https://react.dev/" target="_blank">
-                    <img alt="reactjs" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+                    <img alt="reactjs" title="React.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
                 </a>
             </td>
             <td>
                 <a href="https://reactrouter.com/en/main" target="_blank">
-                    <img alt="react-router" title="react-router" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactrouter/reactrouter-original-wordmark.svg" width="40"/>
+                    <img alt="react-router" title="React-Router" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactrouter/reactrouter-original-wordmark.svg" width="40"/>
                 </a>
             </td>
         </tr>
         <tr>
             <td>
                 <a href="https://git-scm.com/" target="_blank">
-                    <img alt="git" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+                    <img alt="git" title="Git" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
                 </a>
             </td>
             <td>
                 <a href="https://www.github.com" target="_blank">
-                    <img alt="GitHub" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+                    <img alt="GitHub" title="GitHub" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
                 </a>
             </td>
             <td>
                 <a href="https://sass-lang.com/" target="_blank">
-                    <img alt="Sass" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" title="Sass"/>
+                    <img alt="Sass" title="Sass" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg""/>
                 </a>
             </td>
             <td>
@@ -98,7 +98,7 @@
         <tr>
             <td>
                 <a href="https://www.learn-c.org/" target="_blank">
-                    <img alt="c" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg" width="40"/>
+                    <img alt="c" title="C Programming Language" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg" width="40"/>
                 </a>
             </td>
             <td>
