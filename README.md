@@ -7,7 +7,7 @@
 
 - 🔭 Currently working on a<b> personal portfolio project</b>
 
-- 🌱 Currently learning ***C Programming***
+- 🌱 Currently learning ***C++***
 
 - 👯 I’m looking to collaborate on **Open-source React.js projects**
 
