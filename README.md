@@ -39,6 +39,7 @@
                                                                     width="40"/></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
 <table>
     <tbody>
         <tr>
