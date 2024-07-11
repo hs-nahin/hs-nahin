@@ -75,6 +75,8 @@
                     <img alt="GitHub" title="GitHub" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
                 </a>
             </td>
+        </tr>
+            <tr>
             <td>
                 <a href="https://sass-lang.com/" target="_blank">
                     <img alt="Sass" title="Sass" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg""/>
