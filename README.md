@@ -58,6 +58,11 @@
                     <img alt="react-router" title="React-Router" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactrouter/reactrouter-original-wordmark.svg" width="40"/>
                 </a>
             </td>
+            <td>
+                <a href="https://redux-toolkit.js.org/" target="_blank">
+                    <img alt="Redux" title="Redux Toolkit" height="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/redux/redux-original.svg" width="40"/>
+                </a>
+            </td>
         </tr>
         <tr>
             <td>
