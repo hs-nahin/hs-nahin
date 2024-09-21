@@ -63,6 +63,11 @@
                     <img alt="Redux" title="Redux Toolkit" height="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/redux/redux-original.svg" width="40"/>
                 </a>
             </td>
+            <td>
+                <a href="https://tanstack.com/" target="_blank">
+                    <img alt="TanStack Query" title="TanStack Query" height="40" src="https://raw.githubusercontent.com/yeasin2002/yeasin2002/55b5e1b55c620280adb7310cd2b7044dcc24c058/public/icons/react-query.svg" width="40"/>
+                </a>
+            </td>
         </tr>
         <tr>
             <td>
