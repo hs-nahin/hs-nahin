@@ -129,7 +129,8 @@
 
 </p>
 
-![hasnat-shahriyar's Stats](https://github-readme-stats.vercel.app/api?username=hs-nahin&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![hasnat-shahriyar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hs-nahin&theme=tokyonight&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hs-nahin&theme=holi&show_icons=true&hide_border=true)
 
-[![Langguages](https://github-readme-stats.vercel.app/api/top-langs/?username=hs-nahin&hide=stylus,java&langs_count=10&theme=nightowl)]()
+![GitHub Streak](https://streak-stats.demolab.com?user=hs-nahin&theme=holi-theme&hide_border=true)
+
+[![Langguages](https://github-readme-stats.vercel.app/api/top-langs/?username=hs-nahin&hide=stylus,java&langs_count=10&theme=holi&hide_border=true)]()
