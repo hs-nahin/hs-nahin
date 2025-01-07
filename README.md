@@ -48,9 +48,16 @@
                     <img alt="javascript" title="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
                 </a>
             </td>
+        </tr>
+            <tr>
             <td>
                 <a href="https://react.dev/" target="_blank">
                     <img alt="reactjs" title="React.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+                </a>
+            </td>
+            <td>
+                <a href="https://nextjs.org/" target="_blank">
+                    <img alt="nextjs" title="Next.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nextjs/nextjs-plain.svg" width="40"/>
                 </a>
             </td>
             <td>
