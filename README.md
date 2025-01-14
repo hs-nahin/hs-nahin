@@ -7,7 +7,7 @@
 
 - 🔭 Currently working on a<b> personal portfolio project</b>
 
-- 🌱 Currently learning ***Data Structures and Algorithms***
+- 🌱 Currently learning ***Next.js***
 
 - 👯 I’m looking to collaborate on **Open-source React.js projects**
 
