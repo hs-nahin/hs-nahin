@@ -48,6 +48,11 @@
                     <img alt="javascript" title="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
                 </a>
             </td>
+            <td>
+                <a href="https://www.typescriptlang.org/" target="_blank">
+                    <img alt="typescript" title="TypeScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/typescript/typescript-plain.svg" width="40"/>
+                </a>
+            </td>
         </tr>
             <tr>
             <td>
