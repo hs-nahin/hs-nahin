@@ -83,6 +83,11 @@
         </tr>
         <tr>
             <td>
+                <a href="https://www.postman.com/" target="_blank">
+                    <img alt="Postman" title="Postman" height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postman/postman-plain.svg" width="40"/>
+                </a>
+            </td>
+            <td>
                 <a href="https://git-scm.com/" target="_blank">
                     <img alt="git" title="Git" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
                 </a>
@@ -90,11 +95,6 @@
             <td>
                 <a href="https://www.github.com" target="_blank">
                     <img alt="GitHub" title="GitHub" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-                </a>
-            </td>
-            <td>
-                <a href="https://www.postman.com/" target="_blank">
-                    <img alt="Postman" title="Postman" height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postman/postman-plain.svg" width="40"/>
                 </a>
             </td>
         </tr>
